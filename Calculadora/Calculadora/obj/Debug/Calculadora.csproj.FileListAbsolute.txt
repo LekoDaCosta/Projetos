@@ -1,0 +1,27 @@
+c:\users\blackarch\documents\visual studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+c:\users\blackarch\documents\visual studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+c:\users\blackarch\documents\visual studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+c:\users\blackarch\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+c:\users\blackarch\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+c:\users\blackarch\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+c:\users\blackarch\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+c:\users\blackarch\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+c:\users\blackarch\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\BlackArch\Documents\Meus-Projetos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\BlackArch\Documents\Meus-Projetos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\BlackArch\Documents\Meus-Projetos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\BlackArch\Documents\Meus-Projetos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\BlackArch\Documents\Meus-Projetos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\BlackArch\Documents\Meus-Projetos\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\BlackArch\Documents\Meus-Projetos\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\BlackArch\Documents\Meus-Projetos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\BlackArch\Documents\Meus-Projetos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\BlackArch\Projetos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\BlackArch\Projetos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\BlackArch\Projetos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\BlackArch\Projetos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\BlackArch\Projetos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\BlackArch\Projetos\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\BlackArch\Projetos\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\BlackArch\Projetos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\BlackArch\Projetos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache

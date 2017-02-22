@@ -1,0 +1,21 @@
+c:\users\blackarch\documents\visual studio 2015\Projects\robo\robo\bin\Debug\robo.exe.config
+c:\users\blackarch\documents\visual studio 2015\Projects\robo\robo\bin\Debug\robo.exe
+c:\users\blackarch\documents\visual studio 2015\Projects\robo\robo\bin\Debug\robo.pdb
+c:\users\blackarch\documents\visual studio 2015\Projects\robo\robo\obj\Debug\robo.csprojResolveAssemblyReference.cache
+c:\users\blackarch\documents\visual studio 2015\Projects\robo\robo\obj\Debug\robo.Form1.resources
+c:\users\blackarch\documents\visual studio 2015\Projects\robo\robo\obj\Debug\robo.Properties.Resources.resources
+c:\users\blackarch\documents\visual studio 2015\Projects\robo\robo\obj\Debug\robo.csproj.GenerateResource.Cache
+c:\users\blackarch\documents\visual studio 2015\Projects\robo\robo\obj\Debug\robo.exe
+c:\users\blackarch\documents\visual studio 2015\Projects\robo\robo\obj\Debug\robo.pdb
+C:\Users\BlackArch\Documents\Meus-Projetos\robo\robo\bin\Debug\robo.exe.config
+C:\Users\BlackArch\Documents\Meus-Projetos\robo\robo\obj\Debug\robo.exe
+C:\Users\BlackArch\Documents\Meus-Projetos\robo\robo\obj\Debug\robo.pdb
+C:\Users\BlackArch\Documents\Meus-Projetos\robo\robo\bin\Debug\robo.exe
+C:\Users\BlackArch\Documents\Meus-Projetos\robo\robo\bin\Debug\robo.pdb
+C:\Users\BlackArch\Documents\Meus-Projetos\robo\robo\obj\Debug\robo.csprojResolveAssemblyReference.cache
+C:\Users\BlackArch\Documents\Meus-Projetos\robo\robo\obj\Debug\robo.Form1.resources
+C:\Users\BlackArch\Documents\Meus-Projetos\robo\robo\obj\Debug\robo.Properties.Resources.resources
+C:\Users\BlackArch\Documents\Meus-Projetos\robo\robo\obj\Debug\robo.csproj.GenerateResource.Cache
+C:\Users\BlackArch\Projetos\robo\robo\bin\Debug\robo.exe.config
+C:\Users\BlackArch\Projetos\robo\robo\obj\Debug\robo.exe
+C:\Users\BlackArch\Projetos\robo\robo\obj\Debug\robo.pdb
