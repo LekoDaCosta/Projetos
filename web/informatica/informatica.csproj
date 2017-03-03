@@ -82,6 +82,11 @@
     <Content Include="banner\banner2.PNG" />
     <Content Include="banner\banner3.PNG" />
     <Content Include="banner\banner4.PNG" />
+    <Content Include="Botoes\btnContato.fw.png" />
+    <Content Include="Botoes\btnDownloads.fw.png" />
+    <Content Include="Botoes\btnHome.fw.png" />
+    <Content Include="Botoes\btnSobre.fw.png" />
+    <Content Include="Botoes\btnVideo.fw.png" />
     <Content Include="Web.config" />
     <Content Include="Defaunt.aspx" />
   </ItemGroup>

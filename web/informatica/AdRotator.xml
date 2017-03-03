@@ -4,24 +4,36 @@
   <Ad>
     <ImageUrl>\banner\banner1.PNG</ImageUrl>
     <NavigateUrl>http://www.google.com</NavigateUrl>
+    <AlternateText>banne 1</AlternateText>
+    <Keyword>Categoria1</Keyword>
+    <Impressions>10</Impressions>
     
   </Ad>
 
   <Ad>
     <ImageUrl>\banner\banner2.PNG</ImageUrl>
     <NavigateUrl>http://www.google.com</NavigateUrl>
+    <AlternateText>banne 2</AlternateText>
+    <Keyword>Categoria2</Keyword>
+    <Impressions>20</Impressions>
 
   </Ad>
 
   <Ad>
     <ImageUrl>\banner\banner3.PNG</ImageUrl>
     <NavigateUrl>http://www.google.com</NavigateUrl>
+    <AlternateText>banne 3</AlternateText>
+    <Keyword>Categoria3</Keyword>
+    <Impressions>30</Impressions>
 
   </Ad>
 
   <Ad>
     <ImageUrl>\banner\banner4.PNG</ImageUrl>
     <NavigateUrl>http://www.google.com</NavigateUrl>
+    <AlternateText>banne 4</AlternateText>
+    <Keyword>Categoria4</Keyword>
+    <Impressions>40</Impressions>
 
   </Ad>
   

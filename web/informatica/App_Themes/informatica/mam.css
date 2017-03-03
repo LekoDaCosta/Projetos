@@ -15,12 +15,17 @@
 
    #Cabesalho{
        height:150px;
-   }
+       width: 759px;
+}
+      
    #Menu{
-
+       
        border:2px solid #ffffff;
        height:22px;
        margin-top:1px;
+      
+
+     
    }
    #ColunaEsquerda{
 
@@ -50,4 +55,10 @@
        clear:both;
        margin-top:5px;
        text-align:center;
+   }
+
+   Aling_img{
+       align-items:center;
+      
+      
    }

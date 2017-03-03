@@ -12,23 +12,23 @@
 <body>
     <form id="form1" runat="server">
         <div id="content" >
-
-            <div id="Cabesalho">
-                <asp:AdRotator ID="AdRotator1" runat="server" style="z-index: 1; left: 482px; top: 97px; position: absolute; height: 15px;" DataSourceID="XmlDataSource1" />
-
-                <asp:XmlDataSource ID="XmlDataSource1" runat="server" DataFile="~/AdRotator.xml"></asp:XmlDataSource>
-
-            </div>
+               <div id="Cabesalho">
+                 <asp:AdRotator ID="AdRotator1" runat="server" style="z-index: 1; left:auto; top: auto; position:absolute; height: 150px; width: 759px; " DataSourceID="XmlDataSource1" />
+                 <asp:XmlDataSource ID="XmlDataSource1" runat="server" DataFile="~/AdRotator.xml"></asp:XmlDataSource>
+               </div>
 
             <div id="Menu">
-                Menu Horizontal
+                <asp:ImageButton ID="ImageButton1" runat="server" ImageUrl="~/Botoes/btnHome.fw.png" />
+                <asp:ImageButton ID="ImageButton2" runat="server" ImageUrl="~/Botoes/btnVideo.fw.png" />
+                <asp:ImageButton ID="ImageButton3" runat="server" ImageUrl="~/Botoes/btnDownloads.fw.png" />
+                <asp:ImageButton ID="ImageButton4" runat="server" ImageUrl="~/Botoes/btnSobre.fw.png" />
+                <asp:ImageButton ID="ImageButton5" runat="server" ImageUrl="~/Botoes/btnContato.fw.png" />
             </div>
 
             <div id="ColunaEsquerda">
                  <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
         
                      <p>
-                         <br />
                      </p>
                      <p>
                      </p>
@@ -46,7 +46,6 @@
                  <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
         
                      <p>
-                         <br />
                      </p>
                      <p>
                      </p>
