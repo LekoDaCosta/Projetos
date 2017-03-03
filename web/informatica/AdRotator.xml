@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements >
+
+  <Ad>
+    <ImageUrl>\banner\banner1.PNG</ImageUrl>
+    <NavigateUrl>http://www.google.com</NavigateUrl>
+    
+  </Ad>
+
+  <Ad>
+    <ImageUrl>\banner\banner2.PNG</ImageUrl>
+    <NavigateUrl>http://www.google.com</NavigateUrl>
+
+  </Ad>
+
+  <Ad>
+    <ImageUrl>\banner\banner3.PNG</ImageUrl>
+    <NavigateUrl>http://www.google.com</NavigateUrl>
+
+  </Ad>
+
+  <Ad>
+    <ImageUrl>\banner\banner4.PNG</ImageUrl>
+    <NavigateUrl>http://www.google.com</NavigateUrl>
+
+  </Ad>
+  
+</Advertisements>

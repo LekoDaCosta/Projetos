@@ -76,7 +76,12 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AdRotator.xml" />
     <Content Include="App_Themes\informatica\mam.css" />
+    <Content Include="banner\banner1.PNG" />
+    <Content Include="banner\banner2.PNG" />
+    <Content Include="banner\banner3.PNG" />
+    <Content Include="banner\banner4.PNG" />
     <Content Include="Web.config" />
     <Content Include="Defaunt.aspx" />
   </ItemGroup>
@@ -97,6 +102,7 @@
       <DependentUpon>Defaunt.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
