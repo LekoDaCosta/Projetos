@@ -7,12 +7,13 @@
     <title></title>
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
+    <link href="App_Themes/informatica/mam.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
     <form id="form1" runat="server">
         <div id="content" >
 
-            <div id="cabesalho">
+            <div id="Cabesalho">
                 Cabesalho
             </div>
 
@@ -20,14 +21,38 @@
                 Menu Horizontal
             </div>
 
-            <div id="Coluna esquerda">
+            <div id="ColunaEsquerda">
                  <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
+        
+                     <p>
+                         <br />
+                     </p>
+                     <p>
+                     </p>
+                     <p>
+                     </p>
+                     <p>
+                     </p>
+                     <p>
+                     </p>
         
                  </asp:ContentPlaceHolder>
             </div>
 
             <div id="Centro">
                  <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+        
+                     <p>
+                         <br />
+                     </p>
+                     <p>
+                     </p>
+                     <p>
+                     </p>
+                     <p>
+                     </p>
+                     <p>
+                     </p>
         
                  </asp:ContentPlaceHolder>
             </div>

@@ -1,2 +1,53 @@
-﻿body {
-}
+﻿   body 
+   {
+       font-family:'Trebuchet MS';
+       font-size:12px;
+       background-color:#808080;
+
+      }
+   #content{
+
+       border:5px solid #ffffff;
+       padding:2px;
+       margin:0 auto;
+       width:760px;
+   }
+
+   #Cabesalho{
+       height:150px;
+   }
+   #Menu{
+
+       border:2px solid #ffffff;
+       height:22px;
+       margin-top:1px;
+   }
+   #ColunaEsquerda{
+
+       border:2px solid #ffffff;
+       margin-top:2px;
+       width:170px;
+       display:block;
+       float:left;
+
+   }
+   #Centro{
+
+        border:2px solid #ffffff;
+         margin-top:2px;
+         margin-left:175px;
+         width:581px;
+         display:block;
+   }
+   #Rodape{
+
+       border:2px solid #ffffff;
+       font-family:'Trebuchet MS';
+       font-size:9px;
+       font-weight:bold;
+       color:#FFFFFF;
+       display:block;
+       clear:both;
+       margin-top:5px;
+       text-align:center;
+   }
