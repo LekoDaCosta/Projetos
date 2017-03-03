@@ -1,0 +1,43 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="informatica.master.cs" Inherits="informatica.informatica" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="content" >
+
+            <div id="cabesalho">
+                Cabesalho
+            </div>
+
+            <div id="Menu">
+                Menu Horizontal
+            </div>
+
+            <div id="Coluna esquerda">
+                 <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
+        
+                 </asp:ContentPlaceHolder>
+            </div>
+
+            <div id="Centro">
+                 <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+        
+                 </asp:ContentPlaceHolder>
+            </div>
+
+            <div id="Rodape">
+                Asmac 2017 - todos os direitos reservados
+            </div>
+
+            </div>
+        
+        </form>
+     </body>
+</html>
