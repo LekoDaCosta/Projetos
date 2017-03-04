@@ -68,6 +68,7 @@
   <ItemGroup>
     <Content Include="packages.config" />
     <Content Include="informatica.Master" />
+    <Content Include="Defaunt.aspx" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -85,10 +86,11 @@
     <Content Include="Botoes\btnContato.fw.png" />
     <Content Include="Botoes\btnDownloads.fw.png" />
     <Content Include="Botoes\btnHome.fw.png" />
+    <Content Include="Botoes\btnOutro.fw.png" />
+    <Content Include="Botoes\btnOutro1.fw.png" />
     <Content Include="Botoes\btnSobre.fw.png" />
     <Content Include="Botoes\btnVideo.fw.png" />
     <Content Include="Web.config" />
-    <Content Include="Defaunt.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="informatica.Master.cs">

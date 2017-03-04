@@ -10,7 +10,7 @@
        border:5px solid #ffffff;
        padding:2px;
        margin:0 auto;
-       width:760px;
+       width:759px;
    }
 
    #Cabesalho{
@@ -23,25 +23,60 @@
        border:2px solid #ffffff;
        height:22px;
        margin-top:1px;
-      
-
-     
-   }
+       width:756px;
+       
+       }
    #ColunaEsquerda{
 
        border:2px solid #ffffff;
-       margin-top:2px;
+       margin-top:5px;
        width:170px;
        display:block;
        float:left;
 
    }
+   #ColunaEsquerda ul{
+       display:block;
+       float:left;
+       width:170px;
+       margin:0px;
+       padding:0px;
+       color:#ffffff;
+           
+   }
+   #ColunaEsquerda li{
+        display:block;
+        list-style-type:none;
+        list-style-position:outside;
+        border-bottom-style:solid;
+        border-bottom-width:1px;
+        border-bottom-color:#ffffff;
+
+}
+    #ColunaEsquerda li a{
+        display:block;
+        text-decoration:none;
+        font-weight:bold;
+        padding-left:10px;
+
+               
+    }
+     #ColunaEsquerda li a:hover{
+
+         color#000000;
+         font-weight:bold;
+         background-color:#FFFF00;
+         padding-left:10px;
+         background-color:#000000;
+         color:#ffffff;
+     }
+
    #Centro{
 
         border:2px solid #ffffff;
-         margin-top:2px;
-         margin-left:175px;
-         width:581px;
+         margin-top:5px;
+         margin-left:176px;
+         width:579px;
          display:block;
    }
    #Rodape{
@@ -58,7 +93,5 @@
    }
 
    Aling_img{
-       align-items:center;
-      
-      
-   }
+            float:left;
+            }

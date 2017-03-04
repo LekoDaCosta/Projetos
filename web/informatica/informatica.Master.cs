@@ -10,8 +10,9 @@ namespace informatica
     public partial class informatica : System.Web.UI.MasterPage
     {
         protected void Page_Load(object sender, EventArgs e)
-        {
-            // AdRotator1.KeywordFilter = "categoria1";
+        {  // AdRotator1.KeywordFilter = "categoria1";
+            informatica info = new informatica();
+            info.TemplateControl.Page.
         }
     }
 }
