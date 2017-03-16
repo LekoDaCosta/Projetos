@@ -1,0 +1,78 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="informatica.master.cs" Inherits="informatica.informatica" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>MeuSite Asp.Net</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="App_Themes/informatica/man.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="Content">
+            <div id="Cabesalho">
+                
+                <asp:AdRotator ID="AdRotator1" runat="server" DataSourceID="XmlDataSource1" />
+                <asp:XmlDataSource ID="XmlDataSource1" runat="server" DataFile="~/AdRotator.xml"></asp:XmlDataSource>
+                
+            </div>
+
+            <div id="Menu">
+                
+                
+                <asp:ImageButton ID="ImageButton1" runat="server" CssClass="-Align_img" ImageUrl="~/botoes/btnHome.fw.png" />
+                <asp:ImageButton ID="ImageButton2" runat="server" CssClass="-Align_img" ImageUrl="~/botoes/btnVideo.fw.png" />
+                <asp:ImageButton ID="ImageButton3" runat="server" CssClass="-Align_img" ImageUrl="~/botoes/btnDownloads.fw.png" />
+                <asp:ImageButton ID="ImageButton4" runat="server" CssClass="-Align_img" ImageUrl="~/botoes/btnSobre.fw.png" />
+                <asp:ImageButton ID="ImageButton5" runat="server" CssClass="-Align_img" ImageUrl="~/botoes/btnContato.fw.png" />
+                
+                
+                
+            </div>
+
+            <div id="ColunaEsquerda">
+
+                   <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                       
+                       <ul>
+
+                        <li><asp:LinkButton ID="LinkButton1" runat="server">LinkButton</asp:LinkButton></li>
+                        <li><asp:LinkButton ID="LinkButton2" runat="server">LinkButton</asp:LinkButton></li>
+                        <li><asp:LinkButton ID="LinkButton3" runat="server">LinkButton</asp:LinkButton></li>
+                        <li><asp:LinkButton ID="LinkButton4" runat="server">LinkButton</asp:LinkButton></li>
+                        <li><asp:LinkButton ID="LinkButton5" runat="server">LinkButton</asp:LinkButton></li>
+                        <li><asp:LinkButton ID="LinkButton6" runat="server">LinkButton</asp:LinkButton></li>
+
+                      </ul>
+                   </asp:ContentPlaceHolder>
+            </div>
+
+            <div id="Centro">
+
+                 <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                     <p>
+                         <br />
+                     </p>
+                     <p>
+                     </p>
+                     <p>
+                     </p>
+                     <p>
+                     </p>
+                     <p>
+                     </p>
+                 </asp:ContentPlaceHolder>
+
+            </div>
+
+            <div id="Rodape">
+                Aimac - 2017 Todos os direitos Reservados@Leko TI
+           
+            </div>
+      </div>
+ </form>
+    
+</body>
+</html>

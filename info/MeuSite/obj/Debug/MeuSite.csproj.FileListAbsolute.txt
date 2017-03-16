@@ -1,0 +1,6 @@
+c:\users\blackarch\documents\visual studio 2013\Projects\info\MeuSite\bin\MeuSite.dll.config
+c:\users\blackarch\documents\visual studio 2013\Projects\info\MeuSite\bin\MeuSite.dll
+c:\users\blackarch\documents\visual studio 2013\Projects\info\MeuSite\bin\MeuSite.pdb
+c:\users\blackarch\documents\visual studio 2013\Projects\info\MeuSite\obj\Debug\MeuSite.csprojResolveAssemblyReference.cache
+c:\users\blackarch\documents\visual studio 2013\Projects\info\MeuSite\obj\Debug\MeuSite.dll
+c:\users\blackarch\documents\visual studio 2013\Projects\info\MeuSite\obj\Debug\MeuSite.pdb

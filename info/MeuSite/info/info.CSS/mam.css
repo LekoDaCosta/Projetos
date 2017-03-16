@@ -1,0 +1,41 @@
+﻿body {
+
+    font-family:'Trebuchet MS';
+    font-size:12px;
+    background-color:#808080;
+}
+
+#Content{
+
+    border:5px solid #000000;
+    padding:2px;
+    margin:0 auto;
+    width:760px;
+}
+
+#Cabesalho{
+
+    height:150px;
+}
+#Menu{
+    border:2px solid #000000;
+    height:22px;
+    margin-top:5px;
+}
+#ColunaEsquerda{
+    border:2px solid #000000;
+    margin-top:2px;
+    width:170px;
+    display:block;
+    float:left;
+}
+
+#Centro{
+    border:2px solid #000000;
+    margin-top:2px;
+    margin-left:175px;
+    width:585px;
+    display:block;
+}
+
+

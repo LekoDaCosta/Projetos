@@ -1,0 +1,6 @@
+c:\users\blackarch\documents\visual studio 2013\Projects\info\informatica\bin\informatica.dll.config
+c:\users\blackarch\documents\visual studio 2013\Projects\info\informatica\bin\informatica.dll
+c:\users\blackarch\documents\visual studio 2013\Projects\info\informatica\bin\informatica.pdb
+c:\users\blackarch\documents\visual studio 2013\Projects\info\informatica\obj\Debug\informatica.csprojResolveAssemblyReference.cache
+c:\users\blackarch\documents\visual studio 2013\Projects\info\informatica\obj\Debug\informatica.dll
+c:\users\blackarch\documents\visual studio 2013\Projects\info\informatica\obj\Debug\informatica.pdb

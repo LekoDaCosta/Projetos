@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Advertisements >
+  <Ad>
+    <ImageUrl>\banner\banner1.PNG</ImageUrl>
+    <NavigateUrl>http://www.google.com</NavigateUrl>
+    <alternateText>Logo 1</alternateText>
+    <keyword>Categoria1</keyword>
+    <Impressions>10</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>\banner\banner2.PNG</ImageUrl>
+    <NavigateUrl>http://www.google.com</NavigateUrl>
+    <alternateText>Logo 2</alternateText>
+    <keyword>Categoria2</keyword>
+    <Impressions>20</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>\banner\banner3.PNG</ImageUrl>
+    <NavigateUrl>http://www.google.com</NavigateUrl>
+    <alternateText>Logo 3</alternateText>
+    <keyword>Categoria3</keyword>
+    <Impressions>10</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>\banner\banner4.PNG</ImageUrl>
+    <NavigateUrl>http://www.google.com</NavigateUrl>
+    <alternateText>Logo 4</alternateText>
+    <keyword>Categoria4</keyword>
+    <Impressions>20</Impressions>
+  </Ad>
+  
+</Advertisements>
